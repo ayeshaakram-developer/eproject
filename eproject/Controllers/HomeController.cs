@@ -20,7 +20,8 @@ namespace eproject.Controllers
 
         public IActionResult Privacy()
         {
-            var name = "sara";
+            //var name = "saryrrra";
+            var abc = 10;
             return View();
         }
 
